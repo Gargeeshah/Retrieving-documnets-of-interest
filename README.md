@@ -141,3 +141,6 @@ Graphical User Interface:
 ## 7. CONCLUSION
 We have successfully implemented machine learning algorithm, K-Nearest Neighbour in retrieving data from Wikipedia. Data analysis is performed as per the user data of interest. We have also predicted some sugessions to the user as per his/her searched data using TF_IDF concept of  giving weightage to the articles.
 We have successfully developed Graphical user interface using TKinter in python for user friendly searching of data in this project.
+
+# Note
+You can download the dataset from https://github.com/oncletom/coursera-ml/tree/master/week-4/people_wiki.gl. It contains wikipedia of famous personalities from USA.
