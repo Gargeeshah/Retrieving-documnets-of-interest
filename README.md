@@ -136,11 +136,12 @@ Graphical User Interface:
 
 [project look.pdf](https://github.com/Gargeeshah/Retrieving-documnets-of-interest/files/5677242/project.look.pdf)
 
-
-
 ## 7. CONCLUSION
 We have successfully implemented machine learning algorithm, K-Nearest Neighbour in retrieving data from Wikipedia. Data analysis is performed as per the user data of interest. We have also predicted some sugessions to the user as per his/her searched data using TF_IDF concept of  giving weightage to the articles.
 We have successfully developed Graphical user interface using TKinter in python for user friendly searching of data in this project.
 
 # Note
-You can download the dataset from https://github.com/oncletom/coursera-ml/tree/master/week-4/people_wiki.gl. It contains wikipedia of famous personalities from USA.
+You can download the dataset from the link provided below. It contains wikipedia of famous personalities from USA.
+https://s3.amazonaws.com/static.dato.com/files/coursera/course-1/people_wiki.gl.zip.
+In CSV format:
+https://d396qusza40orc.cloudfront.net/phoenixassets/people_wiki.csv. 
