@@ -134,7 +134,7 @@ idf(t) = log(N/ df(t))
 
 Graphical User Interface:
 
- 
+[project look.pdf](https://github.com/Gargeeshah/Retrieving-documnets-of-interest/files/5677242/project.look.pdf)
 
 
 
